@@ -1,4 +1,4 @@
-<h2>Task 2 - Relative Layut<h2> <br />
+<h2>Task 2 - Relative Layout<h2> <br />
 First look of linear layout application:
 
 Screenshot of vertical orientation:
