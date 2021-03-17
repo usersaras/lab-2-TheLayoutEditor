@@ -1,6 +1,6 @@
 <h2>Lab 2 Homework - The Layout Editor<h2> <br />
 
-<p>Screenshot of application in vertical layout:</p> 
+Screenshot of application in vertical layout:
 ![Screenshot of application in vertical layout:](screenshots/ss1.png)
 
 <p>Screenshot of application in horizontal layout:</p>
